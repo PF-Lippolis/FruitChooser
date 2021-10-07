@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FruitChooser</string>
+    <string name="app_name">Fruit Chooser</string>
+    <string name="description">Click to get today\'s fruit!</string>
+    <string name="button">Click me!</string>
 </resources>
