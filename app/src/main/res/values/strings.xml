@@ -2,4 +2,6 @@
     <string name="app_name">Fruit Chooser</string>
     <string name="description">Click to get today\'s fruit!</string>
     <string name="button">Click me!</string>
+    <string name="loading_string">Stiamo lavorando per voi!</string>
+    <string name="inviting_message">Yummy fruit today!</string>
 </resources>
